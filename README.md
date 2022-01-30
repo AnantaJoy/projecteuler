@@ -1,1 +1,1 @@
-# projecteuler
+# [Project Eular](projecteuler.net)
